@@ -12,7 +12,8 @@ namespace Product.API.Controllers
             new(1, "Keyboard", 1499m),
             new(2, "Mouse", 799m),
             new(3, "Monitor", 10999m),
-            new(4, "USB Drive", 134.75m)
+            new(4, "USB Drive", 134.75m),
+            new(5, "Speaker", 223.56m)
         };
 
         private readonly IConfiguration _config;
